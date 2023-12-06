@@ -1,0 +1,8 @@
+npm init -y  //é o primeiro comando, e é utilizado para criar o arquivo package.json
+
+npm install --save-dev webpack webpack-cli //
+
+npx webpack //cria o build do webpack
+
+npm install --save-dev style-loader css-loader
+
